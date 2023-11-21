@@ -1,0 +1,103 @@
+.página_principal_body{
+    background-color: white;
+    background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/86/a6/0c/86a60cc2-a49e-b668-f971-5d18c9006c6b/AppIconFree-1x_U007emarketing-0-9-85-220.png/1200x630wa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#color_fondo_header{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+
+aside{
+    width: 30%;
+    float: right;
+}
+
+button{
+    display: block;
+    background-color: white;
+    color: black;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.h3_pàgina_principal{
+    color:rgb(71, 71, 235);
+}
+
+.p_aside_pàgina_principal{
+    color:aqua;
+}
+.body_audios{
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header_audios {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.p_audios {
+    color:white
+}
+
+audio{
+    display: block;
+}
+
+#header_taules{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#fondo_taula{
+    background-image: url(https://media.traveler.es/photos/61378709ea50dbd37eae1597/master/w_1600%2Cc_limit/56883.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.taula{
+    text-align: center;
+}
+
+#body_videos{
+    background-color: blue;
+}
+#header_videos {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.p_videos {
+    color: white;
+}
+
+.videos_tamaño {
+    width: 50%;
+    height: auto;
+}
+
+.nav {
+    text-align: center;
+    color:rgb(49, 255, 49);
+}
+
+.footer {
+    text-align: center;
+    color: rgb(255, 0, 255);
+}
+
+
